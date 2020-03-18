@@ -1,10 +1,11 @@
 ---
 layout: post
-title: CoViD-19 - Confinement: Jour 1
+title: "CoViD-19 - Confinement: Jour 1"
 ---
 
-Aujourd'hui, premier jour de confinement.
-Le mot est lâché. Ça fait peut à certains. On verra bien comment ça se passe.
+**Aujourd'hui, premier jour de confinement.**
+
+Le mot est lâché. Ça fait peur à certains. On verra bien comment ça se passe.
 
 Ça commence à midi. Le télétravail qui commence, le temps de setup les petits détails (vpn, bureau, etc), une cafetière bien vite remplie (et aussi vite vidée) et c'est parti.
 
@@ -19,16 +20,23 @@ Au moins c'est fait.
 Pour l'après-midi je reprends mon poste. Je me dis que c'est agréable d'être un de ceux que les jeux vidéos intéressent. En télétravail mon environnement de travail est plus agréable qu'au bureau.
 
 En parlant de jeux vidéos, je fais une pause sur Twitter et j'apprends que l'eshop Nintendo à crashé sous la pression de tout les utilisateurs connectés. 
-![Les fanboys Nintendo en sueur](/images/eshop.jpg)
+
+<img src="/images/eshop.jpg" width="500">
+*Les fanboys Nintendo en sueur*
+
 
 C'est vrai que c'est aujourd'hui le premier jour de ce confinement mais aussi la sortie du nouvel épisode d'animal crossing. Cheh ça vous apprendra à vouloir jouer quand moi je dois bosser.
+
 N'empêche j'espère que ça reviendra vite, rien faire, enfermé y'a de quoi chopper la cerise
-![...](https://media.giphy.com/media/i64kgTkIZoGGs/giphy.gif)
+
+![...](https://media.giphy.com/media/i64kgTkIZoGGs/giphy.gif  =560x)
 
 
 Hier en passant rapidement chez moi avant d'aller chez ma chère et tendre j'ai récupéré du matos tech mais également moultes denrées. Dans le lot une petite Guinness qu'il me restait. Hé oui, aujourd'hui c'est la saint Patrick et j'ai prévu le coup pour accompagner un bon petit repas. Je pense qu'unedes choses les plus importantes si cette situation doit durer c'est d'essayer de garder ce genre d'habitudes de célébrer les occasions. Histoire de rendre tout ça moins monotone. Pari réussi, un repas au poil et de quoi étancher la soif. A la vôtre, vous autres Patricks cloîtrés dans vos domiciles.
 
-![Le sustentement qualitatif](/images/guinness.jpg)
+<img src="/images/guinness.jpg" width="500">
+*Le sustentement qualitatif*
+
 
 On fini la journée en essayant de s'instruire.
 J'ai pris pour résolution de me reinitier à la modélisation 3d, plus vraiment pratiquée depuis le lycée, et un ami m'a evangelisée les avancées récentes de blender.
@@ -39,4 +47,5 @@ En résulte que les prochains jours vont s'accompagner des tutos de "blender gur
 *Si ça vous chauffe, foncez voir les videos de ce mec. Il est top !*
 
 Une bonne première journée en somme. Hâte de savoir de quoi demain sera fait.
-![Un début de doughnut... On va s'améliorer!](/images/doughnut.PNG)
+<img src="/images/doughnut.PNG" width="500">
+*Un début de doughnut... On va s'améliorer!*
