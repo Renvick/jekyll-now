@@ -34,7 +34,9 @@ C'est vrai que c'est aujourd'hui le premier jour de ce confinement mais aussi la
 
 N'empêche j'espère que ça reviendra vite, rien faire, enfermé y'a de quoi chopper la cerise
 
-![...](https://media.giphy.com/media/i64kgTkIZoGGs/giphy.gif =560x)
+![...](https://media.giphy.com/media/i64kgTkIZoGGs/giphy.gif)
+
+*...*
 
 
 Hier en passant rapidement chez moi avant d'aller chez ma chère et tendre j'ai récupéré du matos tech mais également moultes denrées. Dans le lot une petite Guinness qu'il me restait. Hé oui, aujourd'hui c'est la saint Patrick et j'ai prévu le coup pour accompagner un bon petit repas. Je pense qu'unedes choses les plus importantes si cette situation doit durer c'est d'essayer de garder ce genre d'habitudes de célébrer les occasions. Histoire de rendre tout ça moins monotone. Pari réussi, un repas au poil et de quoi étancher la soif. A la vôtre, vous autres Patricks cloîtrés dans vos domiciles.
@@ -57,6 +59,8 @@ En résulte que les prochains jours vont s'accompagner des tutos de "blender gur
 
 
 Une bonne première journée en somme. Hâte de savoir de quoi demain sera fait.
+
+
 <img src="/images/doughnut.PNG" width="500">
 
 *Un début de doughnut... On va s'améliorer!*
